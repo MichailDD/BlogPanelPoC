@@ -22,6 +22,7 @@
           </div>
           <div class="preview-article__photo">
             <div class="card h-100">
+              <h6 class="font-weight-bolder">Add picture</h6>
               <input
                 placeholder="Upload"
                 class="form-control form-control-default preview-article__photo-input"
