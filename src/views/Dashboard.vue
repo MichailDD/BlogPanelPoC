@@ -33,20 +33,17 @@
       />
     </VsudPagination>
   </div>
-  <Loader />
 </template>
 
 <script>
 import axios from "axios";
 import CardArticle from "../components/CardArticle.vue";
 import VsudPaginationItem from "../components/VsudPaginationItem.vue";
-import Loader from "../components/Loader.vue";
 import VsudPagination from "../components/VsudPagination.vue";
 export default {
   components: {
     CardArticle,
     VsudPaginationItem,
-    Loader,
     VsudPagination,
   },
 
